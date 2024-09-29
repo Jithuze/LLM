@@ -1,0 +1,5 @@
+chromadb
+PyPDF2
+colorama
+ollama
+groq

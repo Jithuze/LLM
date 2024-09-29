@@ -1,7 +1,7 @@
 from groq import Groq
 from colorama import Fore
 
-client = Groq(api_key='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')
+client = Groq(api_key='YOUR_API_KEY')
 
 def chat(prompt):
     completion = client.chat.completions.create(
